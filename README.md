@@ -14,3 +14,5 @@ I am currently an MA student at Columbia University in Quantitative Methods in S
 - 📫 How to reach me: Linkedin is the best option. My Linkeidn handle is bengusuozcan.
 - 😄 Pronouns: She / her / hers
 - ⚡ Fun fact: I write science fiction novels and host a podcast about how technology shapes the society. All in Turkish! Book name: Antika Adam, podcast name: The Generalist
+
+--> 

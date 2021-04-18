@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**bengusuozcan/bengusuozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am currently an MA student at Columbia University in Quantitative Methods in Social Science program. You can find my course work and projects in predictive analytics and data visualization with R as well as machine learning with Python here. 
 
 -> Predictive analytics part includes linear and logistic regression, with different applications such as interactions and time difference models. 
@@ -15,4 +12,3 @@ I am currently an MA student at Columbia University in Quantitative Methods in S
 - 😄 Pronouns: She / her / hers
 - ⚡ Fun fact: I write science fiction novels and host a podcast about how technology shapes the society. All in Turkish! Book name: Antika Adam, podcast name: The Generalist
 
---> 
